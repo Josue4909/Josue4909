@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Josue Rivera
+Computer Information Systems student at the University of Houston focused on data analytics, Python, and business intelligence.
 
-<!--
-**Josue4909/Josue4909** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Technical Skills
+- Python (pandas, numpy)
+- SQL
+- Power BI
+- Data analysis and visualization
+- Machine learning basics
 
-Here are some ideas to get you started:
+## Featured Projects
+- Sales Data Analysis (Python)
+- Power BI Sales Dashboard
+- Customer Churn Machine Learning Model
+- EDI Failure Data Analysis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+I am currently pursuing a Bachelor of Science in Computer Information Systems at the University of Houston. I enjoy working with data, building dashboards, and developing analytical solutions that help businesses make better decisions.
+
+## Goal
+Seeking internship opportunities in data analytics, IT systems, or business intelligence where I can apply technical and analytical skills to real-world problems.
